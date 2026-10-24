@@ -1,0 +1,31 @@
+{
+  "monitor": 0,
+  "capture_mode": "window",
+  "window_title": "(46)_h_hoangv_ (@_h_hoangv_) | TikTok - Google Chrome",
+  "window_handle": 525034,
+  "scan_interval": 0.25,
+  "change_threshold": 0.003,
+  "board_region": {
+    "left": 282,
+    "top": 82,
+    "width": 910,
+    "height": 910
+  },
+  "window_board_ratio": [
+    0.146875,
+    0.07592592592592592,
+    0.4739583333333333,
+    0.8425925925925926
+  ],
+  "orientation": "white",
+  "template_theme": "default",
+  "recognition_threshold": 0.72,
+  "auto_calibrate_start": true,
+  "stockfish_path": "",
+  "analysis_time": 0.3,
+  "threads": 4,
+  "hash_mb": 64,
+  "multipv": 3,
+  "performance_profile_version": 3,
+  "safety_acknowledged": true
+}

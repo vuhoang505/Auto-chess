@@ -1,0 +1,15 @@
+.venv/
+.venv-py313-backup/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.tmp/
+pytest-cache-files-*/
+build/
+dist/
+*.spec
+logs/
+data/
+assets/piece_templates/*/
+!assets/piece_templates/.gitkeep
+

@@ -1,0 +1,7 @@
+PySide6>=6.8,<7
+opencv-python>=4.10,<5
+mss>=10,<11
+numpy>=2.0,<3
+python-chess>=1.999,<2
+pytest>=8.3,<10
+
